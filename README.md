@@ -88,6 +88,8 @@ Go to http://pypi.python.org/ and login. You will see your package and the detai
 
 ## Installing Pypi Packages
 
+This can be done on almost any *nix machine. Windows is also possible, though I prefer creating msi installers for windows.
+
 Install pip, the python package installer:
 
 <pre>
