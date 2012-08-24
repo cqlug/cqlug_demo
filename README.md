@@ -78,7 +78,7 @@ We need to know who you are, so please choose either:
 Your selection [default 1]:
 </pre>
 
-Choose 1,2 and set up for your account locally. Finally, upload.
+Choose 1 or 2 and set up for your account locally. Finally, upload.
 
 <pre>
 make upload
